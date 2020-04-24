@@ -1,5 +1,5 @@
 # Voting Machine
- This is a voting machine for 5 parties built using keil uvsion5 software and proteus 8 professional software by interfacing LM016L (LCD), LED-GREEN and SW-SPST-MOM (Switch) with AT89C51 (8051 microcontroller).
+ This is an electronic voting machine for 5 parties built using keil uvsion5 software and proteus 8 professional software by interfacing LM016L (LCD), LED-GREEN and SW-SPST-MOM (Switch) with AT89C51 (8051 microcontroller).
 # Building
 For ruuning the project
 1. Install keil uvision5 and proteus 8 professional software on your pc.
